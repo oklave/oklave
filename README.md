@@ -4,4 +4,4 @@
 
 [![codewars](https://www.codewars.com/users/oklave/badges/large)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![oklave LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=oklave&theme=dark)](https://github.com/oklave/leetcode-stats)
