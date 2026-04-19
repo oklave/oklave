@@ -1,7 +1,7 @@
 **Инженерная разработка · Безопасность · Автоматизация**
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oklave&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oklave&theme=solarized_dark)
 
-[![codewars](https://www.codewars.com/users/oklave/badges/large)
+![codewars](https://www.codewars.com/users/oklave/badges/large)
 
 
